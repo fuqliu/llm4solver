@@ -1,2 +1,2 @@
 # llm4solver
-large language model-based solver for optmization
+Literature review of large language model-based solver for optimization
